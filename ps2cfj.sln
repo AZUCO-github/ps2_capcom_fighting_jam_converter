@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ps2cfj", "ps2cfj.vcxproj", "{5BC2B6A5-462A-4287-809E-58F1792B9E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC2B6A5-462A-4287-809E-58F1792B9E07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5BC2B6A5-462A-4287-809E-58F1792B9E07}.Debug|Win32.Build.0 = Debug|Win32
+		{5BC2B6A5-462A-4287-809E-58F1792B9E07}.Release|Win32.ActiveCfg = Release|Win32
+		{5BC2B6A5-462A-4287-809E-58F1792B9E07}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {135DF9CD-D00F-4532-B72B-A04869CC82D2}
+	EndGlobalSection
+EndGlobal
